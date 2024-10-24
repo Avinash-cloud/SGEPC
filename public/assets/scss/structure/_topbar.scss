@@ -1,0 +1,7 @@
+//
+// _topbar.scss
+//
+
+.app-header {
+    @apply lg:pt-layout-gap bg-default-900 sticky top-0 z-50;
+}

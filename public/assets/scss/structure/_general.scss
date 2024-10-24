@@ -1,0 +1,17 @@
+//
+// _sidenav.scss
+//
+
+
+.wrapper {
+    @apply flex flex-col min-h-full;
+}
+
+// Page Content
+.page-content {
+    @apply flex flex-col flex-auto relative transition-all duration-300 lg:m-layout-gap lg:mt-0 lg:rounded-xl bg-white;
+}
+
+main {
+    @apply flex-grow py-6 px-6; // flex-grow container
+}
