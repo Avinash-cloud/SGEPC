@@ -9,7 +9,7 @@ export default function DashboardContent() {
                     <div className="p-5 flex items-center justify-between">
                         <span>
                             <div className="text-slate-600 font-semibold block">Total Order</div>
-                            <div className="text-2xl text-slate-800 font-semibold mt-2">₹198</div>
+                            <div className="text-2xl text-slate-800 font-semibold mt-2">₹1982</div>
                         </span>
 
                         <span
